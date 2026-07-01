@@ -129,4 +129,30 @@ Returns attendance rows, registered users, and base64 registry summary.
 - Use clear face images for best results.
 - Enrollment should include multiple angles per employee.
 - If matching quality drops, re-enroll employee images and retrain through `enroll-face`.
-# Mobile_phone_based_attendence_system
+
+## Developer
+
+**Bishwaprotap Ray**
+- **Role:** Software Developer Intern | AI & Machine Learning Engineer
+- **Education:** B.Sc. in Computer Science & Engineering (International University of Business Agriculture and Technology)
+- **Specialization:** AI, Machine Learning, LLM, FastAPI, Voice Assistant Development
+- **Location:** Dhaka, Bangladesh
+- **Mobile:** +8801788974534
+- **Email:** baburay214@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/bishwaprotap-ray/
+- **GitHub:** https://github.com/Bishwaprotapi
+
+## Technologies Used
+
+- **Python** - Core programming language
+- **Flask** - Web framework for API development
+- **OpenCV** - Computer vision and image processing
+- **Face Recognition** - Face detection and recognition library
+- **NumPy** - Numerical computing
+- **Pandas** - Data manipulation and analysis
+- **Pillow** - Image processing
+- **dlib** - Machine learning toolkit for face recognition
+
+## License
+
+This project is licensed under the terms specified in the LICENSE file.
