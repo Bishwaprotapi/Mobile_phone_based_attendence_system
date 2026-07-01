@@ -58,8 +58,8 @@ Request:
 
 ```json
 {
-  "employee_id": "570508",
-  "employee_name": "Asif",
+  "employee_id": "570510",
+  "employee_name": "Bishwaprotap",
   "base64_images": [
     "data:image/jpeg;base64,...",
     "data:image/jpeg;base64,..."
@@ -73,8 +73,8 @@ Response (success):
 {
   "ok": true,
   "message": "Enrollment completed and face model refreshed",
-  "employee_id": "570508",
-  "employee_name": "Asif",
+  "employee_id": "570510",
+  "employee_name": "Bishwaprotap",
   "accepted_images": 2,
   "trained": true
 }
@@ -99,8 +99,8 @@ Response (matched):
   "ok": true,
   "matched": true,
   "message": "Arrival Marked (13:22:08)",
-  "employee_id": "570508",
-  "name": "Asif",
+  "employee_id": "570510",
+  "name": "Bishwaprotap",
   "date": "2026-04-07",
   "arrival": "13:22:08",
   "exit": "",
